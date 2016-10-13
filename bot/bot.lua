@@ -234,7 +234,7 @@ function create_config( )
     "updater",
     "inAdmin"
     },
-    sudo_users = {223404066,143218912},--Sudo users
+    sudo_users = {216507730},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[ ]],
     help_text_realm = [[
